@@ -1,0 +1,14 @@
+Change log:
+2022120501 新サーバ・新方式への対応
+2022120701 basehostでテスト済
+2022120801 tgzservername変数に対応
+2022122702 UrlOfDeviceInfoJsonHttpを追加
+2022122801 UrlOfNgrokOrderの追加
+2022122802 UrlOfsendImportantlogの追加とsendImportantlogの取り込み
+2023010601 IsRunning waitforever showps stop を取り込み
+2023020801 IsRunning を修正
+2023052101 stopで落とすプロセスを修正
+2023102201 isRunning での誤検知を注意喚起
+2024021901 /zelowa/client/programs のリンク作成に関する間違いを修正
+2024041201 shrinkfile によるファイル縮小時にtd-agent-bitでの送信に影響が無いように修正。本来は素直にローテーションすべき？
+2025032701 shスクリプトをpythonで書き直し（スティーブン・リュウ）
